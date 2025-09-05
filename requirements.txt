@@ -1,0 +1,6 @@
+pandas
+sympy
+sbd
+streamlit
+pyngrok
+
