@@ -184,7 +184,7 @@ ngrok.set_auth_token("32HeA2cFR8xjtLnWxBmkR6LVuWX_3QVAYxoi8YWzPA8pU6wNu")
 # st.write("**How to demo:** show Advisor Verifier (try unregistered name), paste social posts with pump language, paste a suspicious announcement with 'firm allotment' or 'guaranteed returns'.")
 #
 
-!streamlit run app.py &>/dev/null&
+
 
 public_url = ngrok.connect(8501)
 print("🎉 Your Streamlit app is live here:", public_url)
